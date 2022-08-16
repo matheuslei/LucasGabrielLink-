@@ -24,7 +24,7 @@ body{
 .container {
   text-align: center;
   width: 300px;
-  margin: 60px auto;
+  margin: 60px auto 1%
 }
 
 img {
@@ -70,7 +70,7 @@ ul {
   margin: 48px 0;
 }
 ul li a{
-  height: 53px;
+  height: 58px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -94,8 +94,6 @@ footer {
   color: #fff;
   opacity: 0.6;
   transition: opacity 400ms;
-  margin-top: 25%;
-  padding-bottom: -150px ;
 }
 
 footer:hover {
